@@ -1,0 +1,10 @@
+fastapi[standard]==0.115.0
+pydantic-settings==2.8.1
+sqlmodel==0.0.23
+psycopg[binary]==3.2.5
+
+google-genai==1.4.0
+
+chromadb==0.6.3
+
+greenlet==3.1.1
